@@ -16,7 +16,7 @@
  */
 
 var config = {
-  "mapsApiKey": "",
+  "mapsApiKey": "AIzaSyAqVHhujVVIgOijYIvmh3sj9u2Pk5JAE7Q",
   "firebaseApiKey": "",
   "firebaseDatabaseURL": "",
 };

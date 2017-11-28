@@ -1,5 +1,5 @@
 {
-	"mapsApiKey": "AIzaNotARealKey",
-	"databaseURL": "https://project-id.firebaseio.com",
+	"mapsApiKey": "AIzaSyD1mEuwvHBdJg2uFQDmrnb-tfVod6lAAMc"
+	"databaseURL": "https://console.firebase.google.com/project/schoolbustracker2017/database/schoolbustracker2017/data/"
 	"simulation": true
 }
